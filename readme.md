@@ -1,3 +1,5 @@
 Welcome to Julian's codeTalks Repo!
 
-For each codeTalks, I will add a new file to the repo.
+I will create a folder for each subject we're covering, which will contain a .js file containing the code for each codeTalks. 
+
+Please feel free to reach out if you have any questions!
